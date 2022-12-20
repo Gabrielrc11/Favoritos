@@ -15,7 +15,7 @@
       
     <div id="calculadoradeimc">  
       <h3>Calculadora de IMC</h3>
-        <p>Calculadora criada com JavaScript dentro do HTML usando um pouco de CSS, calculadora totalmente dinamica indicando "Bom dia", "Boa tarde" ou "Boa noite"               dependendo da hora do dia. Calculadora criada totalmente por mim e com pouca enfase no design CSS.</p>
+        <p>Calculadora criada com JavaScript dentro do HTML usando um pouco de CSS, calculadora totalmente dinamica indicando "Bom dia", "Boa tarde" ou "Boa noite"               dependendo da hora do dia. Calculadora criada totalmente por mim e com pouca enfase no design CSS. Link: https://calculadoradimc.netlify.app/</p>
     </div>
     
     <h4>Em construção...</h4>
