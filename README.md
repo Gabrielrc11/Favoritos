@@ -21,6 +21,6 @@
     </div>
     <div id="racing">  
       <h3 href="https://caracinggame.netlify.app/">Car Racing Game</h3>
-        <p>Jogo criado com JavaScript dentro do HTML usando CSS. Calculadora criada totalmente por mim. Link: https://carracing-game.netlify.app/</p>
+        <p>Jogo criado com JavaScript dentro do HTML usando CSS. Calculadora criada totalmente por mim. Link: https://caracinggame.netlify.app/</p>
     </div>
     <h4>Em construção...</h4>
